@@ -1,0 +1,16 @@
+{
+    "VALID_TONES": {
+        "ASK_TO_USE_NORMAL_TONE": "普通",
+        "ASK_TO_USE_MEME_TONE": "迷因",
+        "ASK_TO_USE_EMOTIONAL_TONE": "情緒",
+        "ASK_TO_USE_SHORT_ANSWER_TONE": "簡短"
+    },
+    "VALID_RESPONDS": {
+        "YES": "是",
+        "NO": "否",
+        "WANT_TO_CHANGE_TONE": "我要改語氣",
+        "WANT_TO_END_DIALOG": "🔚 結束對話 🔚",
+        "FORCE_TREAT_AS_FOOD": "這是美食 Reels",
+        "TRY_AGAIN_LOCATION": "再試一次"
+    }
+}
